@@ -7,7 +7,7 @@ We uploaded a prepared build with the ability to view the results of topology re
 
 For testing you need a personal computer with Windows 7 or newer.
 
-Just download all materials by the link <a href="https://drive.google.com/file/d/1OXp1AdsDdLcMZoXFxxz-5aOVxLgT7IOp/view?usp=sharing"><img src="https://iili.io/HCNp5Wg.th.png" width="32" height="32"></a>
+Just download all materials from the link <a href="https://drive.google.com/file/d/1OXp1AdsDdLcMZoXFxxz-5aOVxLgT7IOp/view?usp=sharing"><img src="https://iili.io/HCNp5Wg.th.png" width="32" height="32"></a>
 
 Then extract the archive and follow the path ${\color{red}Build -> ‘DubaiPort-Demo.exe’.}$ 
 After launching you will be able to move the camera in the editor:
